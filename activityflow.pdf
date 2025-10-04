@@ -1,0 +1,19 @@
+[Start]
+   ↓
+[Register Doctor] → [Store Doctor Info]
+   ↓
+[Register Patient] → [Store Patient Info]
+   ↓
+[Schedule Appointment]
+   ↓
+[Check for Conflicts]
+   ↓
+[Add to Queue if No Conflict]
+   ↓
+[Call Next Patient]
+   ↓
+[Mark Status: Seen / No-show / Rescheduled]
+   ↓
+[View Doctor & Patient History]
+   ↓
+[End]
